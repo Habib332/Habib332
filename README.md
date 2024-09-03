@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Habib332
+- 👋 Hi, I’m @HAmza 
 - 👀 I’m interested in football
 - 🌱 I’m currently learning C
 - 📫 How to reach me k243004@nu.edu.pk 
