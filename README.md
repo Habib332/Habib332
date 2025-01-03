@@ -2,8 +2,7 @@
 
 
 
-# PF Lab 3
-Introduction to C Language 
+
 
 - 👋 Hi, I’m @Habib332
 - 👀 I’m interested in football and love both watching and playing it⚽
